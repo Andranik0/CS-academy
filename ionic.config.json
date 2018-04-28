@@ -1,0 +1,8 @@
+{
+  "name": "CS-academy",
+  "app_id": "8f808a50",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
